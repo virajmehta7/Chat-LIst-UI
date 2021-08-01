@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/76491642/127766046-a078aa2f-7342-4990-b066-780b2626b7ee.jpeg" width="300">
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
